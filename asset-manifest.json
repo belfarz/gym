@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gym/static/css/main.e658d543.css",
-    "main.js": "/gym/static/js/main.be006fb1.js",
+    "main.js": "/gym/static/js/main.2b037723.js",
     "static/media/Rectangle9.png": "/gym/static/media/Rectangle9.368d938bbcf6622e6564.png",
     "static/media/about1.jpg": "/gym/static/media/about1.9c1481bfd58e2a7a23c5.jpg",
     "static/media/acheivement.png": "/gym/static/media/acheivement.8a9bb550c7912af748b6.png",
@@ -15,12 +15,16 @@
     "static/media/about4.jpg": "/gym/static/media/about4.399991d39e9f846ca13d.jpg",
     "static/media/about2.jpg": "/gym/static/media/about2.9e918e2700f4e16002d6.jpg",
     "static/media/gym4.jpg": "/gym/static/media/gym4.6d6356ae5ed4c44fd4fd.jpg",
+    "static/media/Flexing.png": "/gym/static/media/Flexing.18fda176386140136c3d.png",
+    "static/media/Pulse.png": "/gym/static/media/Pulse.7ef01f3854879ac314db.png",
+    "static/media/Yoga.png": "/gym/static/media/Yoga.ca11af0a38361ae86ba9.png",
+    "static/media/Crowd.png": "/gym/static/media/Crowd.6111d4943a9c1d2b9f3d.png",
     "index.html": "/gym/index.html",
     "main.e658d543.css.map": "/gym/static/css/main.e658d543.css.map",
-    "main.be006fb1.js.map": "/gym/static/js/main.be006fb1.js.map"
+    "main.2b037723.js.map": "/gym/static/js/main.2b037723.js.map"
   },
   "entrypoints": [
     "static/css/main.e658d543.css",
-    "static/js/main.be006fb1.js"
+    "static/js/main.2b037723.js"
   ]
 }
