@@ -8,20 +8,16 @@ import About from './components/About';
 import Footer from "./components/Footer";
 
 
-
-
-
-
-
 function App() {
 
 
   return (
     <div className="App">
       <Navbar />
-     
+      
       <Routes>
          <Route path='/' element={<Home />} />
+         <Route path='/gym' element={<Home />} />
          <Route path='/Service' element={<Service />} />
          <Route path='/About' element={<About />} />
       </Routes>

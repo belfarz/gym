@@ -1,4 +1,8 @@
 import React from "react";
+import pulse from "../images/Pulse.png"
+import yoga from "../images/Yoga.png"
+import flexing from "../images/Flexing.png"
+import squats from "../images/Squats.png"
 
 export default function Fitness(){
     return(
@@ -7,7 +11,7 @@ export default function Fitness(){
               <div className="fitness--wrapper">
                     <div className="fitness--goal">
                         <div className="fit">
-                        <img src="images/Pulse.png" alt="" />
+                        <img src={pulse} alt="" />
                         <h2 align="center">Cardio</h2>
                          </div>
                         <p>Reduce stress,Increase engery
@@ -16,7 +20,7 @@ export default function Fitness(){
 
                      <div className="fitness--goal">
                         <div className="fit">
-                        <img src="images/yoga.png" alt="" />
+                        <img src={yoga} alt="" />
                         <h2 align="center">Yoga</h2>
                          </div>
                         <p>Reduce stress,Increase engery
@@ -25,7 +29,7 @@ export default function Fitness(){
 
                      <div className="fitness--goal">
                         <div className="fit">
-                        <img src="images/Flexing.png" alt="" />
+                        <img src={flexing} alt="" />
                         <h2 align="center">Muscle Build</h2>
                          </div>
                         <p>Reduce stress,Increase engery
@@ -34,7 +38,7 @@ export default function Fitness(){
 
                      <div className="fitness--goal">
                         <div className="fit">
-                        <img src="images/Squats.png" alt="" />
+                        <img src={squats} alt="" />
                         <h2 align="center">Weight Loss</h2>
                          </div>
                         <p>Reduce stress,Increase engery
