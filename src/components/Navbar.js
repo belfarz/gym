@@ -43,7 +43,7 @@ export default function Navbar(){
            <span className="logo">Logo</span>
            <div className="nav--links" ref={navRef}>
             <li><Link to="/" className="nav--li">Home</Link></li>
-            <li><Link to="/Service" className="nav--li">Service</Link></li>
+            <li><Link to="/Service" className="nav--li">Services</Link></li>
             <li><Link to="/About" className="nav--li">About</Link></li>
            
            
