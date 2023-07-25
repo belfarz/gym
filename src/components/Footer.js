@@ -19,7 +19,7 @@ export default function Footer() {
       <div className="footer--nav">
         <ul>
           <li><Link to="/" className="footer--li">Home</Link></li>
-          <li><Link to="/Service" className="footer--li">Service</Link></li>
+          <li><Link to="/Service" className="footer--li">Services</Link></li>
           <li><Link to="/About" className="footer--li">About</Link></li>
           <li><Link to="#pricing" className="footer--li">pricing</Link></li>
           <li><a href="#contact">Contact</a></li> 
