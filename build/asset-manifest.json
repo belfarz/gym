@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gym/static/css/main.e658d543.css",
+    "main.js": "/gym/static/js/main.34cdc96b.js",
+    "static/media/Rectangle9.png": "/gym/static/media/Rectangle9.368d938bbcf6622e6564.png",
+    "static/media/about1.jpg": "/gym/static/media/about1.9c1481bfd58e2a7a23c5.jpg",
+    "static/media/acheivement.png": "/gym/static/media/acheivement.8a9bb550c7912af748b6.png",
+    "static/media/Rectangle12.png": "/gym/static/media/Rectangle12.c58b5231210fbbddcd57.png",
+    "static/media/Rectangle11.png": "/gym/static/media/Rectangle11.ac106c0059043a1b6152.png",
+    "static/media/Rectangle10.png": "/gym/static/media/Rectangle10.16e61064bf5edef43996.png",
+    "static/media/gym3.jpg": "/gym/static/media/gym3.033303ce93e4e38cec9f.jpg",
+    "static/media/about3.jpg": "/gym/static/media/about3.ab4eae4a38ff3ef6640f.jpg",
+    "static/media/gym2.jpg": "/gym/static/media/gym2.399991d39e9f846ca13d.jpg",
+    "static/media/img1.jpg": "/gym/static/media/img1.1ae0678db0db0f6983b8.jpg",
+    "static/media/about4.jpg": "/gym/static/media/about4.399991d39e9f846ca13d.jpg",
+    "static/media/about2.jpg": "/gym/static/media/about2.9e918e2700f4e16002d6.jpg",
+    "static/media/gym4.jpg": "/gym/static/media/gym4.6d6356ae5ed4c44fd4fd.jpg",
+    "static/media/Flexing.png": "/gym/static/media/Flexing.18fda176386140136c3d.png",
+    "static/media/Pulse.png": "/gym/static/media/Pulse.7ef01f3854879ac314db.png",
+    "static/media/Yoga.png": "/gym/static/media/Yoga.ca11af0a38361ae86ba9.png",
+    "static/media/Crowd.png": "/gym/static/media/Crowd.6111d4943a9c1d2b9f3d.png",
+    "index.html": "/gym/index.html",
+    "main.e658d543.css.map": "/gym/static/css/main.e658d543.css.map",
+    "main.34cdc96b.js.map": "/gym/static/js/main.34cdc96b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e658d543.css",
+    "static/js/main.34cdc96b.js"
+  ]
+}
